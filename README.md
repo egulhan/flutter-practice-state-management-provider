@@ -1,3 +1,3 @@
-# Flutter - State Management in Flutter via Provider
+# Flutter - State Management
 
 State management practice in Flutter via provider
